@@ -53,11 +53,12 @@ jsonpathmap will produce following result
   "count": 2,
   "list": [
     {
-      "name": [
-        "apple",
-        "banana"
-      ]
+      "name": "apple"
     },
+    {
+      "name": "banana"
+    }
+  ],
     {
       "name": [
         "apple",
