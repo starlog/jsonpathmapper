@@ -1,7 +1,5 @@
-'use strict';
+"use strict";
 
-let jsonpathmap = {
-    engine: require('./lib/jsonpathmap')
-};
+let jsonpathmap = require("./lib/jsonpathmap");
 
 module.exports = jsonpathmap;
